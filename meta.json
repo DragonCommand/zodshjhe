@@ -1,0 +1,25 @@
+{
+  "repo": "jetbrains-datagrip-ultimate-ide",
+  "product": "JetBrains DataGrip Ultimate IDE",
+  "kind": "developer",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "ide-tools",
+  "topics": [
+    "jetbrains-datagrip-ide",
+    "jetbrains-datagrip-ide-desktop",
+    "jetbrains-datagrip-ide-release",
+    "jetbrains-datagrip-ide-windows",
+    "developer-tools",
+    "coding-workflow",
+    "terminal-client",
+    "database-tools",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "JetBrains DataGrip Ultimate IDE"
+}
